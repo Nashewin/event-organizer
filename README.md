@@ -1,2 +1,2 @@
-# event.github.io
+# nashe event.github.io
 Event Organizer Website
